@@ -32,8 +32,8 @@ You may now unload ```mapedit_buildmigrator``` and remove it if you wish.
 
 ## Download:
 * Building Migrator for Map Editor V3
-  * [GitHub Download](https://github.com/fusez/Map-Editor-V3-BuildMigrator/archive/refs/heads/master.zip)
-  * [GitHub Page](https://github.com/fusez/Map-Editor-V3-BuildMigrator)
+  * [GitHub Download](https://github.com/simonseidel/Map-Editor-V3-BuildMigrator/archive/refs/heads/master.zip)
+  * [GitHub Page](https://github.com/simonseidel/Map-Editor-V3-BuildMigrator)
 * Map Editor V3 (Required)
-  * [GitHub Download](https://github.com/fusez/Map-Editor-V3/archive/master.zip)
-  * [GitHub Page](https://github.com/fusez/Map-Editor-V3)
+  * [GitHub Download](https://github.com/simonseidel/Map-Editor-V3/archive/master.zip)
+  * [GitHub Page](https://github.com/simonseidel/Map-Editor-V3)
